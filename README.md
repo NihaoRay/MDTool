@@ -30,3 +30,11 @@ MDTool.markdown2Html(markdown_content);
 
 ## Looks like
 ![Looks like](resource/example.jpg)
+
+## Prepare to support the following functionality
+```
+好像不支下面这种格式
+[msg][url]
+[url]:https://www.example.com
+```
+## ready to resolve issues
